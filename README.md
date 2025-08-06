@@ -1,6 +1,6 @@
 ![Header](https://github.com/destrosez/destrosez/blob/main/assets/banner.png)
 
-## I'm a beginner unity developer
+# Hello! My name is Maxim, and I am a beginner Unity Developer. I create 2D/3D/VR/AR games, study C# and game mechanics. I am open for cooperation and ready for new projects.
 
 ## Languages and Tools
 
@@ -13,11 +13,14 @@
   <img width="12"/>
   <img src="https://img.icons8.com/?size=100&id=4vCBvplrPRUn&format=png&color=FFFFFF" height="40" alt="ar logo"/>
   <img width="12"/>
-  <img src="https://github.com/user-attachments/assets/d1bdec3b-c6c8-4dc4-a96e-a4d0ac264311" height="40" alt="unity logo"/>
-  <img width="12"/>
-  <img src="https://github.com/user-attachments/assets/d1bdec3b-c6c8-4dc4-a96e-a4d0ac264311" height="40" alt="unity logo"/>
-  <img width="12"/>
 </div>
 
 ## Contact me:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zxcqwertyww)
+
+###
+<p align="center">
+ <img width="600" src="assets/snake.svg" alt="snake"/>
+</p>
+
+###
