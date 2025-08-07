@@ -1,8 +1,8 @@
 ![Header](https://github.com/destrosez/destrosez/blob/main/assets/banner.png)
 
-# Hello! My name is Maxim, and I am a beginner Unity Developer. I create 2D/3D/VR/AR games, study C# and game mechanics. I am open for cooperation and ready for new projects.
+## Привет! Меня зовут Максим, я начинающий Unity Developer. Я создаю 2D/3D/VR/AR-игры, изучаю C# и игровые механики. Открыт к сотрудничеству и готов к новым проектам.
 
-## Languages and Tools
+## Языки программирования и инструменты
 
 <div align="left">
   <img src="https://github.com/user-attachments/assets/bb1d963f-4cdb-4e56-93f6-41a4ce226b84" height="40" alt="с# logo"/>
@@ -15,8 +15,9 @@
   <img width="12"/>
 </div>
 
-## Contact me:
+## Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zxcqwertyww)
+[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:officialmaxmoiseev@gmail.com)
 
 ###
 <p align="center">
