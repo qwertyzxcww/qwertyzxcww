@@ -17,11 +17,5 @@
 
 ## Связаться со мной
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zxcqwertyww)
-[![Email](https://img.shields.io/badge/-Email-090909?style=for-the-badge&logo=gmail&logoColor=D14836)](mailto:officialmaxmoiseev@gmail.com)
-
-###
-<p align="center">
- <img width="600" src="assets/snake.svg" alt="snake"/>
-</p>
 
 ###
