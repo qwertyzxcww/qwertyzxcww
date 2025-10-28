@@ -1,8 +1,14 @@
 ![Header](https://github.com/destrosez/destrosez/blob/main/assets/banner.png)
 
-## 👋 Hi! I'm Maxim
-I'm a **Unity Developer** passionate about creating **2D / 3D / VR / AR** games.  
-I study **C#** and gameplay mechanics — always open to collaboration and new projects 🚀  
+<h1 align="center">👋 Hi! I'm Maxim</h1>
+
+<h3 align="center">Unity Developer | 2D / 3D / VR / AR | C# Enthusiast</h3>
+
+<p align="center">
+I’m passionate about developing interactive experiences in <b>Unity</b> —  
+from concept to fully functional prototype.  
+Always open to new projects, teamwork, and creative challenges 🚀  
+</p>
 
 ---
 
@@ -29,4 +35,4 @@ I study **C#** and gameplay mechanics — always open to collaboration and new p
 
 ---
 
-⭐️ Always open to new ideas and collaboration!
+<h3 align="center">⭐ Always open to new ideas and collaboration!</h3>
