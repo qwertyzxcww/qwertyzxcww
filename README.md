@@ -21,11 +21,29 @@ Always open to new projects, teamwork, and creative challenges 🚀
 
 ## 🧰 Languages & Tools
 <div align="left">
-  <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=FFFFFF" height="60" alt="unity logo"/>
+  <!-- Unity -->
+  <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=FFFFFF" height="60" alt="Unity logo"/>
   <img width="14"/>
-  <img src="https://github.com/user-attachments/assets/7730d212-1fee-45c8-a4d1-56e34a5e496c" height="60" alt="vr logo"/>
+  <!-- C# -->
+  <img src="https://img.icons8.com/?size=100&id=55251&format=png&color=FFFFFF" height="60" alt="C# logo"/>
   <img width="14"/>
-  <img src="https://img.icons8.com/?size=100&id=4vCBvplrPRUn&format=png&color=FFFFFF" height="60" alt="ar logo"/>
+  <!-- VR -->
+  <img src="https://github.com/user-attachments/assets/7730d212-1fee-45c8-a4d1-56e34a5e496c" height="60" alt="VR logo"/>
+  <img width="14"/>
+  <!-- AR -->
+  <img src="https://img.icons8.com/?size=100&id=4vCBvplrPRUn&format=png&color=FFFFFF" height="60" alt="AR logo"/>
+  <img width="14"/>
+  <!-- Meta XR -->
+  <img src="https://img.icons8.com/?size=100&id=BD98MqUP8eNf&format=png&color=FFFFFF" height="60" alt="Meta XR logo"/>
+  <img width="14"/>
+  <!-- Blender -->
+  <img src="https://img.icons8.com/?size=100&id=KDGdN57NLSJa&format=png&color=FFFFFF" height="60" alt="Blender logo"/>
+  <img width="14"/>
+  <!-- PostgreSQL -->
+  <img src="https://img.icons8.com/?size=100&id=38561&format=png&color=FFFFFF" height="60" alt="PostgreSQL logo"/>
+  <img width="14"/>
+  <!-- Figma -->
+  <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=FFFFFF" height="60" alt="Figma logo"/>
 </div>
 
 ---
