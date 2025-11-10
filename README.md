@@ -1,4 +1,6 @@
-![Header](https://github.com/destrosez/destrosez/blob/main/assets/banner.png)
+<p align="center">
+  <img src="https://github.com/destrosez/destrosez/blob/main/banner.png" alt="Header" height="500"/>
+</p>
 
 <h1 align="center">👋 Привет! Я — Максим</h1>
 
