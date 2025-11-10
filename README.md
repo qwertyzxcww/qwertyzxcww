@@ -1,25 +1,25 @@
 ![Header](https://github.com/destrosez/destrosez/blob/main/assets/banner.png)
 
-<h1 align="center">👋 Hi! I'm Maxim</h1>
+<h1 align="center">👋 Привет! Я — Максим</h1>
 
-<h3 align="center">Unity Developer | 2D / 3D / VR / AR | C# Enthusiast</h3>
+<h3 align="center">Unity-разработчик | 2D / 3D / VR / AR
 
 <p align="center">
-I’m passionate about developing interactive experiences in <b>Unity</b> —  
-from concept to fully functional prototype.  
-Always open to new projects, teamwork, and creative challenges 🚀  
+Создаю интерактивные проекты в <b>Unity</b> —  
+от идеи и прототипа до готового продукта.  
+Открыт к новым проектам, совместной работе и креативным вызовам 🚀  
 </p>
 
 ---
 
-## 🧠 About Me
-- 🧩 Developing projects in **Unity** — from concept to working prototype.  
-- 🥽 Working in the **AR / VR / MR** field, building interactive and immersive experiences.  
-- 🏋️ Into **sports** and maintaining an active lifestyle.  
+## 🧠 Обо мне
+- 🧩 Разрабатываю проекты на **Unity** — полный цикл от концепта до рабочего прототипа.  
+- 🥽 Работаю с технологиями **AR / VR / MR**, создавая захватывающие и иммерсивные пользовательские опыты.  
+- 🏋️ Увлекаюсь **спортом** и активным образом жизни.  
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Навыки и инструменты
 <div align="left">
   <!-- Unity -->
   <img src="https://img.icons8.com/?size=100&id=39848&format=png&color=FFFFFF" height="60" alt="Unity logo"/>
@@ -48,9 +48,9 @@ Always open to new projects, teamwork, and creative challenges 🚀
 
 ---
 
-## 📫 Contact
+## 📫 Контакты
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/zxcqwertyww)
 
 ---
 
-<h3 align="center">⭐ Always open to new ideas and collaboration!</h3>
+<h3 align="center">⭐ Всегда открыт для идей, сотрудничества и новых возможностей!</h3>
